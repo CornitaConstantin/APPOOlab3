@@ -1,0 +1,21 @@
+c:\users\petru\documents\visual studio 2015\Projects\Lab3APPOO\Lab3APPOO\bin\Debug\Lab3APPOO.exe.config
+C:\Users\Petru\documents\visual studio 2015\Projects\Lab3APPOO\Lab3APPOO\bin\Debug\Lab3APPOO.exe
+C:\Users\Petru\documents\visual studio 2015\Projects\Lab3APPOO\Lab3APPOO\bin\Debug\Lab3APPOO.pdb
+C:\Users\Petru\documents\visual studio 2015\Projects\Lab3APPOO\Lab3APPOO\obj\Debug\Lab3APPOO.csprojResolveAssemblyReference.cache
+C:\Users\Petru\documents\visual studio 2015\Projects\Lab3APPOO\Lab3APPOO\obj\Debug\Lab3APPOO.exe
+C:\Users\Petru\documents\visual studio 2015\Projects\Lab3APPOO\Lab3APPOO\obj\Debug\Lab3APPOO.pdb
+D:\Projects\Lab3APPOO\Lab3APPOO\bin\Debug\Lab3APPOO.exe.config
+D:\Projects\Lab3APPOO\Lab3APPOO\obj\Debug\Lab3APPOO.exe
+D:\Projects\Lab3APPOO\Lab3APPOO\obj\Debug\Lab3APPOO.pdb
+D:\Projects\Lab3APPOO - Costel\Lab3APPOO\bin\Debug\Lab3APPOO.exe.config
+D:\Projects\Lab3APPOO - Costel\Lab3APPOO\obj\Debug\Lab3APPOO.exe
+D:\Projects\Lab3APPOO - Costel\Lab3APPOO\obj\Debug\Lab3APPOO.pdb
+D:\Projects\Lab3APPOO - Costel\Lab3APPOO\bin\Debug\Lab3APPOO.exe
+D:\Projects\Lab3APPOO - Costel\Lab3APPOO\bin\Debug\Lab3APPOO.pdb
+D:\Projects\Lab3APPOO - Costel\Lab3APPOO\obj\Debug\Lab3APPOO.csprojResolveAssemblyReference.cache
+C:\Users\Cornita Constantin\Google Drive\APPOO\Lab3\Lab3APPOO\bin\Debug\Lab3APPOO.exe.config
+C:\Users\Cornita Constantin\Google Drive\APPOO\Lab3\Lab3APPOO\obj\Debug\Lab3APPOO.exe
+C:\Users\Cornita Constantin\Google Drive\APPOO\Lab3\Lab3APPOO\obj\Debug\Lab3APPOO.pdb
+C:\Users\Cornita Constantin\Google Drive\APPOO\Lab3\Lab3APPOO\bin\Debug\Lab3APPOO.exe
+C:\Users\Cornita Constantin\Google Drive\APPOO\Lab3\Lab3APPOO\bin\Debug\Lab3APPOO.pdb
+C:\Users\Cornita Constantin\Google Drive\APPOO\Lab3\Lab3APPOO\obj\Debug\Lab3APPOO.csprojResolveAssemblyReference.cache
